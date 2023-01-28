@@ -4,4 +4,4 @@ commit changes
 
 // hola soy timido 
 
-console.log("Hubieron cambios en el archivo");
+console.log("Hubieron cambios en el archivo.");
